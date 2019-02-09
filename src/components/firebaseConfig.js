@@ -1,8 +1,10 @@
 export default {
-  apiKey: 'AIzaSyDr0-Mef6D1RZsD2NoBaPOwordhUW58MyU',
-  authDomain: 'contacts-app-dca62.firebaseapp.com',
-  databaseURL: 'https://contacts-app-dca62.firebaseio.com',
-  projectId: 'contacts-app-dca62',
-  storageBucket: 'contacts-app-dca62.appspot.com',
-  messagingSenderId: '715354469790'
+  // Danh's stock firebase config
+
+  apiKey: 'AIzaSyCfkyhlgX60zul12wjxIDT2B-hD8-blqe0',
+  authDomain: 'stocks-e9e75.firebaseapp.com',
+  databaseURL: 'https://stocks-e9e75.firebaseio.com',
+  projectId: 'stocks-e9e75',
+  storageBucket: 'stocks-e9e75.appspot.com',
+  messagingSenderId: '597438893177'
 }

@@ -210,4 +210,8 @@
     width: 200px;
     position: relative;
   }
+
+  .container {
+    margin: 10px;
+  }
 </style>

@@ -103,4 +103,7 @@
     height: 40px;
   }
 
+  .container {
+    margin: 10px;
+  }
 </style>
